@@ -97,6 +97,17 @@ A backend application to track and manage daily expenses.
 
 ---
 
-## 📫 Contact
-- 📧 Email: zameer@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+## 📫 Connect with Me
+
+<p align="left">
+  <a href="mailto:zameer14121@gmail.com">
+    <img src="https://img.shields.io/badge/Email-zameer@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/md-zameer-6a1221329/">
+    <img src="https://img.shields.io/badge/LinkedIn-Md%20Zameer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/mdzameercse">
+    <img src="https://img.shields.io/badge/GitHub-mdzameercse-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
