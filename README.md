@@ -15,7 +15,14 @@
 - Actively preparing for **software developer roles**
 
 ---
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdzameercse&show_icons=true&theme=github_dark" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdzameercse&layout=compact&theme=github_dark" height="165"/>
+</p>
+
+---
 ## 🧠 Technical Skills
 
 ### Languages
@@ -87,15 +94,6 @@ A backend application to track and manage daily expenses.
 
 **Tech:** Java, MySQL  
 🔗 https://github.com/mdzameercse/Personal-Expense-Tracker
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdzameercse&show_icons=true&theme=github_dark" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdzameercse&layout=compact&theme=github_dark" height="165"/>
-</p>
 
 ---
 
