@@ -1,17 +1,13 @@
-<h1 align="center">
-  Md Zameer
-</h1>
+<h2 align="center">Md Zameer</h2>
 
 <p align="center">
-  <b>Java Backend Developer</b> · <b>Spring Boot</b> · <b>REST APIs</b>
+  <b>Java Backend Developer</b> · Spring Boot · REST APIs
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=mdzameercse&label=Views&color=1f6feb&style=flat-square" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mdzameercse&label=Profile%20Views&color=1f6feb&style=flat-square" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=500&color=1F6FEB&center=true&vCenter=true&width=520&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs;Clean+Architecture+%26+Secure+APIs" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=700&color=1F6FEB&center=true&vCenter=true&width=420&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs" />
 </p>
 
 ---
