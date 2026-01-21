@@ -108,7 +108,7 @@ A backend application to track and manage daily expenses.
 
 <p align="left">
   <a href="mailto:mdzameer14121@gmail.com">
-    <img src="https://img.shields.io/badge/Email-zameer@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-mdzameer-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/md-zameer-6a1221329/">
     <img src="https://img.shields.io/badge/LinkedIn-Md%20Zameer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
