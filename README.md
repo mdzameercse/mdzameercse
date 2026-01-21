@@ -1,20 +1,32 @@
-<h1 align="center">Md Zameer</h1>
-<h3 align="center">Java Backend Developer | Spring Boot | REST APIs</h3>
+<h1 align="center">
+  Md Zameer
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mdzameercse&label=Profile%20Views&color=0e75b6&style=flat" />
+  <b>Java Backend Developer</b> · <b>Spring Boot</b> · <b>REST APIs</b>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mdzameercse&label=Profile%20Views&color=1f6feb&style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=500&color=1F6FEB&center=true&vCenter=true&width=520&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs;Clean+Architecture+%26+Secure+APIs" />
 </p>
 
 ---
 
 ## 👋 About Me
-- Final-year **Computer Science & Engineering** student at **RGUKT Basar**
-- Strong focus on **Java backend development**
-- Experience building **secure, role-based applications**
-- Comfortable with **REST APIs, database design, and backend logic**
-- Actively preparing for **software developer roles**
+<ul>
+  <li>Final-year <b>Computer Science & Engineering</b> student at <b>RGUKT Basar</b></li>
+  <li>Focused on building <b>robust Java backend systems</b></li>
+  <li>Hands-on with <b>secure, role-based applications</b></li>
+  <li>Strong understanding of <b>REST APIs, database design, and backend logic</b></li>
+  <li>Actively preparing for <b>software developer roles</b></li>
+</ul>
 
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center">
