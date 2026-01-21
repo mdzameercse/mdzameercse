@@ -107,7 +107,7 @@ A backend application to track and manage daily expenses.
 ## 📫 Connect with Me
 
 <p align="left">
-  <a href="mailto:zameer14121@gmail.com">
+  <a href="mailto:mdzameer14121@gmail.com">
     <img src="https://img.shields.io/badge/Email-zameer@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/md-zameer-6a1221329/">
