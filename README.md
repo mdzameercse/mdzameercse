@@ -15,7 +15,14 @@
 </p>
 
 ---
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdzameercse&show_icons=true&theme=github_dark" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdzameercse&layout=compact&theme=github_dark" height="165"/>
+</p>
+
+---
 ## 👋 About Me
 <ul>
   <li>Final-year <b>Computer Science & Engineering</b> student at <b>RGUKT Basar</b></li>
@@ -27,14 +34,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdzameercse&show_icons=true&theme=github_dark" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdzameercse&layout=compact&theme=github_dark" height="165"/>
-</p>
-
----
 ## 🧠 Technical Skills
 
 ### Languages
